@@ -44,7 +44,7 @@ body:
     validations:
       required: false
 
-  - type: checkbox
+  - type: checkboxes
     id: self-assign
     attributes:
       label: Self-assign
