@@ -51,6 +51,6 @@ body:
       description: >
         Would you like to follow up this addition yourself?
       options:
-        - Self-assign?
+        - label: Self-assign?
     validations:
       required: false
