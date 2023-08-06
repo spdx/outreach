@@ -54,7 +54,39 @@ You can, of course, follow this guide using one of your own projects, just subst
 ```
 
 ### 2. Add the SPDX Maven Plugin
-[TODO]
+Edit the pom.xml file for the project.
+In the build plugins section, add the plugin with createSPDX goal:
+
+```
+<plugin>
+  <groupId>org.spdx</groupId>
+  <artifactId>spdx-maven-plugin</artifactId>
+  <version>0.6.5</version>
+  <executions>
+    <execution>
+      <id>build-spdx</id>
+      <phase>prepare-package</phase>
+      <goals>
+        <goal>createSPDX</goal>
+      </goals>
+    </execution>
+  </executions>
+</plugin>
+```
+
+Note: you may want to replace version with the most recent version of the SPDX maven plugin available on [Maven Central](https://central.sonatype.com/artifact/org.spdx/spdx-maven-plugin/).
+
+
+```
+ <build>
+    <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
+      <plugins>
+        <!-- clean lifecycle, see https://maven.apache.org/ref/current/maven-core/lifecycles.html#clean_Lifecycle -->
+        <plugin>
+          <artifactId>maven-clean-plugin</artifactId>
+          <version>3.1.0</version>
+        </plugin>
+
 
 ### 3. Add Important Maven Elements
 [TODO] - examples, organization, license, etc.
