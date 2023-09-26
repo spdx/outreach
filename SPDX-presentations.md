@@ -1,5 +1,7 @@
 This is a list of talks about SPDX with a link to info, slides, or video (as applicable). 
 
+In addition to the list below, there is a [Google Docs folder](https://drive.google.com/drive/u/0/folders/1VUrWPp7Xk1UtXz_QGS1bLNndBxq9NVgh) of public SPDX presentations.
+
 Please add talks to the top of the list (so they are listed in reverse chronological order) in the following format:
 
 | Date | Title | Presenter | Event | Slides/Video |
