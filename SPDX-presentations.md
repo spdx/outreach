@@ -6,8 +6,9 @@ Please add talks to the top of the list (so they are listed in reverse chronolog
 
 | Date | Title | Presenter | Event | Slides/Video |
 |--|--|--|--|--|
-|2023-06-13|An Insider's Guide to SPDX|Gary O'Neall|FOSSA Webinar|[Link](https://www.brighttalk.com/webcast/17752/584752)|
-| 2023-05-09 | SPDX 3.0 Mini Summit | various | LinuxCon North America | |
+| 2023-09-18 | SPDX 3.0 Mini Summit | various | Open Source Summit Europe | |
+| 2023-06-13 | An Insider's Guide to SPDX|Gary O'Neall | FOSSA Webinar | [Link](https://www.brighttalk.com/webcast/17752/584752) |
+| 2023-05-09 | SPDX 3.0 Mini Summit | various | Open Source Summit North America | |
 | 2023-03-31 | SPDXv3 | Alexios Zavras | OpenChain | [Link](https://www.openchainproject.org/news/2023/03/31/webinar-50) |
 | 2023-03-30 | SPDXv3 | Alexios Zavras | OpenChain Germany WorkGroup | [Link](https://www.openchainproject.org/news/2023/04/28/openchain-germany-work-group-meeting-2023-03-30-recording) |
 | 2023-02-16 | SPDX for SBOMs | Alexios Zavras | Siemens Open Day | |
