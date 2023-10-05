@@ -1,23 +1,23 @@
 
-## **Quick Start Guide for Generating SPDX Documents with FOSSA**
+# **Quick Start Guide for Generating SPDX Documents with FOSSA**
 
-### **Target Audience**
+## **Target Audience**
 
 This guide is intended for both technical and non-technical users who wish to generate SPDX documents. FOSSA’s SBOM tool supports a wide range of programming languages and ecosystems. Visit our [docs for the full list](https://docs.fossa.com/docs/supported-languages). 
 
-### **Scenario Overview**
+## **Scenario Overview**
 
 This guide will explain how you can import your project into FOSSA’s SBOM tool. It will then demonstrate how you can generate an SPDX document in the tag/value and/or JSON formats.
 
-### **Prerequisites**
+## **Prerequisites**
 
 You must have a FOSSA account to follow the steps in this guide (you can generate SPDX documents with either a free or premium account).
 
-### **Example**
+## **Example**
 
 In this guide, we will generate an SPDX document that describes the example application [my_recipe_book](https://github.com/CortezFrazierJr/my_recipe_book). 
 
-### **Steps**
+## **Steps**
 
 Below, we’ll show you how to generate an SPDX document in two different ways: 
 
@@ -26,7 +26,7 @@ Below, we’ll show you how to generate an SPDX document in two different ways:
 * With the FOSSA web app 
 * With the FOSSA CLI (best for technical users)
 
-### **Generating an SPDX Document with the FOSSA Web App**
+## **Generating an SPDX Document with the FOSSA Web App**
 
 
 
@@ -37,7 +37,7 @@ Below, we’ll show you how to generate an SPDX document in two different ways:
 5. Now, we’ll customize our SBOM. In our example, we’ve selected the SPDX JSON format. &lt;>
 6. Once our SBOM is generated, we can either download and distribute the report, or we can use FOSSA to host it. In our example, we’ve downloaded a JSON file and [added it to our GitHub repo](https://github.com/CortezFrazierJr/my_recipe_book/blob/main/sampleSPDX.json).
 
-### **Generating an SPDX Document with the FOSSA CLI**
+## **Generating an SPDX Document with the FOSSA CLI**
  
 
 
@@ -53,11 +53,11 @@ Below, we’ll show you how to generate an SPDX document in two different ways:
     ```
 
 
-### **Questions**
+## **Questions**
 
 Email product@fossa.com, or reach out to us on [LinkedIn](https://www.linkedin.com/company/fossa) or [Twitter](https://twitter.com/getfossa).
 
-### **Suggested Next Steps**
+## **Suggested Next Steps**
 
 Once you’ve signed up for a free FOSSA account, consider viewing our docs page for more information on importing projects and generating SBOMs:
 
