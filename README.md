@@ -4,7 +4,7 @@ This repository collects resources useful for SPDX outreach.
 
 # Upcoming presentations
 
-## SPDX Webinar
+## SFScon.it
 - "The current state of SBOMs and SPDX"
 - Alexios Zavras
 - Friday 10 November 2023
