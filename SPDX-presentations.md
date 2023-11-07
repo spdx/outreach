@@ -6,8 +6,10 @@ Please add talks to the top of the list (so they are listed in reverse chronolog
 
 | Date | Title | Presenter | Event | Slides/Video |
 |--|--|--|--|--|
-| 2023-09-18 | SPDX 3.0 Mini Summit | various | Open Source Summit Europe | |
-| 2023-06-13 | An Insider's Guide to SPDX|Gary O'Neall | FOSSA Webinar | [Link](https://www.brighttalk.com/webcast/17752/584752) |
+| 2023-09-26 | Package Managers, Software Security and Functional Safety | Gary O'Neall, Maximilian Huber | PackagingCon | [Link](https://cfp.packaging-con.org/2023/talk/VGS8ZS/) |
+| 2023-09-25 | SBOMs and SPDX: Now and in the Future | Gary O'Neall | FOSSA Webinar | [Link](https://docs.google.com/presentation/d/1luX6E2GXAsq2-17eY4Gn_CvVX_knrNp7XOnjnUZJbbc) |
+| 2023-09-18 | SPDX 3.0 Mini Summit | various | Open Source Summit Europe | [Link](https://www.youtube.com/playlist?list=PLbzoR-pLrL6qc2MGUC1p1EYUTk7EOuB9i) |
+| 2023-06-13 | An Insider's Guide to SPDX | Gary O'Neall | FOSSA Webinar | [Link](https://www.brighttalk.com/webcast/17752/584752) |
 | 2023-05-09 | SPDX 3.0 Mini Summit | various | Open Source Summit North America | |
 | 2023-03-31 | SPDXv3 | Alexios Zavras | OpenChain | [Link](https://www.openchainproject.org/news/2023/03/31/webinar-50) |
 | 2023-03-30 | SPDXv3 | Alexios Zavras | OpenChain Germany WorkGroup | [Link](https://www.openchainproject.org/news/2023/04/28/openchain-germany-work-group-meeting-2023-03-30-recording) |
