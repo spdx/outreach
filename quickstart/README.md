@@ -27,7 +27,7 @@ If you have a suggestion for a quick start guide, please create a pull request a
 If you would like to contribute to an upcoming quick start, please create a pull request to add your name to the volunteers in the Upcoming Quick Starts table and contact any existing volunteers to coordinate.
 
 
-## Fromat of Quick Start Guides
+## Format of Quick Start Guides
 
 Each quick start guide should be complete enough for someone familiar with the ecosystem or community can easily complete the quick start.
 
