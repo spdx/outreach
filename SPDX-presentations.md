@@ -6,6 +6,7 @@ Please add talks to the top of the list (so they are listed in reverse chronolog
 
 | Date | Title | Presenter | Event | Slides/Video |
 |--|--|--|--|--|
+| 2023-12-06 | Balancing Complexity, Quality and Completeness | Gary O'Neall | Open Compliance Summit | [Link](https://docs.google.com/presentation/d/1D7D_cz8iPuqSqYoOGLKizLgmxg7K4BKgBWBCCCzsHaU) |
 | 2023-11-10 | The current state of SBOMs and SPDX | Alexios Zavras | SFScon | [Link](https://www.sfscon.it/talks/the-current-state-of-sboms-and-spdx/) |
 | 2023-09-26 | Package Managers, Software Security and Functional Safety | Gary O'Neall, Maximilian Huber | PackagingCon | [Link](https://cfp.packaging-con.org/2023/talk/VGS8ZS/) |
 | 2023-09-25 | SBOMs and SPDX: Now and in the Future | Gary O'Neall | FOSSA Webinar | [Link](https://docs.google.com/presentation/d/1luX6E2GXAsq2-17eY4Gn_CvVX_knrNp7XOnjnUZJbbc) |
