@@ -6,7 +6,9 @@ Please add talks to the top of the list (so they are listed in reverse chronolog
 
 | Date | Title | Presenter | Event | Slides/Video |
 |--|--|--|--|--|
-| 2023-12-19 | Improving Security through the use of SBOMs | Jeff Schutt, Gary O'Neall | DoD Weapon Systems Software Summit | [Slides](https://docs.google.com/presentation/d/16tBgUMvTEvBufRgpbszHdO-2BEeqAegiHq5dIyAUYdE/edit#slide=id.g24ff401066e_0_128)
+| 2023-12-19 | Improving Security through the use of SBOMs | Jeff Schutt, Gary O'Neall | DoD Maintenance Symposium | [Link](https://docs.google.com/presentation/d/16tBgUMvTEvBufRgpbszHdO-2BEeqAegiHq5dIyAUYdE) |
+| 2023-12-07 | SPDX 3.0: Evolving to Represent System Bill of Materials Efficiently | Kate Stewart, Yoshiyuki Ito, Gary O'Neall | Open Compliance Summit, Japan | [Link](https://static.sched.com/hosted_files/ocs2023/2c/Open%20Compliance%20Summit%20%20-%20SPDX%203.0.pdf) |
+| 2023-12-07 | Balancing Complexity, Quality and Completeness | Gary O'Neall | Open Compliance Summit, Japan | [Link](https://static.sched.com/hosted_files/ocs2023/01/Compliance%20Summit%20Balancing%20Complexity%2C%20Quality%20and%20Completeness.pdf) |
 | 2023-11-10 | The current state of SBOMs and SPDX | Alexios Zavras | SFScon | [Link](https://www.sfscon.it/talks/the-current-state-of-sboms-and-spdx/) |
 | 2023-09-26 | Package Managers, Software Security and Functional Safety | Gary O'Neall, Maximilian Huber | PackagingCon | [Link](https://www.youtube.com/watch?v=q6AMZuzlpHo&list=PLl386dCR5QGTElF3MbltCJupNG1lHK4Nr&index=28) |
 | 2023-09-25 | SBOMs and SPDX: Now and in the Future | Gary O'Neall | Synopsys Webinar | [Link]([https://docs.google.com/presentation/d/1luX6E2GXAsq2-17eY4Gn_CvVX_knrNp7XOnjnUZJbbc](https://www.brighttalk.com/webcast/13983/600352)) |
