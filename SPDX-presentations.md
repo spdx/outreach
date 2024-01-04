@@ -6,12 +6,14 @@ Please add talks to the top of the list (so they are listed in reverse chronolog
 
 | Date | Title | Presenter | Event | Slides/Video |
 |--|--|--|--|--|
+| 2023-12-19 | Improving Security through the use of SBOMs | Jeff Schutt, Gary O'Neall | DoD Weapon Systems Software Summit | [Slides](https://docs.google.com/presentation/d/16tBgUMvTEvBufRgpbszHdO-2BEeqAegiHq5dIyAUYdE/edit#slide=id.g24ff401066e_0_128)
 | 2023-11-10 | The current state of SBOMs and SPDX | Alexios Zavras | SFScon | [Link](https://www.sfscon.it/talks/the-current-state-of-sboms-and-spdx/) |
 | 2023-09-26 | Package Managers, Software Security and Functional Safety | Gary O'Neall, Maximilian Huber | PackagingCon | [Link](https://www.youtube.com/watch?v=q6AMZuzlpHo&list=PLl386dCR5QGTElF3MbltCJupNG1lHK4Nr&index=28) |
-| 2023-09-25 | SBOMs and SPDX: Now and in the Future | Gary O'Neall | FOSSA Webinar | [Link](https://docs.google.com/presentation/d/1luX6E2GXAsq2-17eY4Gn_CvVX_knrNp7XOnjnUZJbbc) |
+| 2023-09-25 | SBOMs and SPDX: Now and in the Future | Gary O'Neall | Synopsys Webinar | [Link]([https://docs.google.com/presentation/d/1luX6E2GXAsq2-17eY4Gn_CvVX_knrNp7XOnjnUZJbbc](https://www.brighttalk.com/webcast/13983/600352)) |
 | 2023-09-18 | SPDX 3.0 Mini Summit | various | Open Source Summit Europe | [Link](https://www.youtube.com/playlist?list=PLbzoR-pLrL6qc2MGUC1p1EYUTk7EOuB9i) |
 | 2023-06-13 | An Insider's Guide to SPDX | Gary O'Neall | FOSSA Webinar | [Link](https://www.brighttalk.com/webcast/17752/584752) |
-| 2023-05-09 | SPDX 3.0 Mini Summit | various | Open Source Summit North America | |
+| 2023-05-09 | SPDX 3.0 Mini Summit | various | Open Source Summit North America | [video](https://www.youtube.com/watch?v=-_6C8EG0pTA&list=PLbzoR-pLrL6osxY8Ao02UdjFIYux9I-Qi&index=331) |
+| 2023-05-09 | An SBOM Primer: From Licenses to Security, Know What’s in Your Code | Jeff Shapiro, Gary O'Neall | Open Source Summit North America | [video](https://www.youtube.com/watch?v=IbGc4nIn_ao&list=PLbzoR-pLrL6osxY8Ao02UdjFIYux9I-Qi&index=123&t=57s)
 | 2023-03-31 | SPDXv3 | Alexios Zavras | OpenChain | [Link](https://www.openchainproject.org/news/2023/03/31/webinar-50) |
 | 2023-03-30 | SPDXv3 | Alexios Zavras | OpenChain Germany WorkGroup | [Link](https://www.openchainproject.org/news/2023/04/28/openchain-germany-work-group-meeting-2023-03-30-recording) |
 | 2023-02-16 | SPDX for SBOMs | Alexios Zavras | Siemens Open Day | |
