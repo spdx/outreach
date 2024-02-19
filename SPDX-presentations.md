@@ -6,6 +6,8 @@ Please add talks to the top of the list (so they are listed in reverse chronolog
 
 | Date | Title | Presenter | Event | Slides/Video |
 |--|--|--|--|--|
+| 2024-02-06 | SBOMs Go Global | Kate Stewart | State of Open Con '24 | [Link](https://static.sched.com/hosted_files/stateofopencon2024/2a/FINAL%2020240206-SOOCon%20-%20SBOMs%20go%20global.pdf) |
+| 2024-02-04 | SPDX 3.0 - a Migration Journey |Gary O'Neall | FOSDEM 2024 | [Video](https://video.fosdem.org/2024/k4401/fosdem-2024-3172-spdx-3-0-a-migration-journey.mp4) [Slides](https://fosdem.org/2024/events/attachments/fosdem-2024-3172-spdx-3-0-a-migration-journey/slides/22530/SPDX_3_0_-_a_migration_journey_ez1JkmI.pdf) |
 | 2023-12-19 | Improving Security through the use of SBOMs | Jeff Schutt, Gary O'Neall | DoD Maintenance Symposium | [Link](https://docs.google.com/presentation/d/16tBgUMvTEvBufRgpbszHdO-2BEeqAegiHq5dIyAUYdE) |
 | 2023-12-07 | SPDX 3.0: Evolving to Represent System Bill of Materials Efficiently | Kate Stewart, Yoshiyuki Ito, Gary O'Neall | Open Compliance Summit, Japan | [Link](https://static.sched.com/hosted_files/ocs2023/2c/Open%20Compliance%20Summit%20%20-%20SPDX%203.0.pdf) |
 | 2023-12-07 | Balancing Complexity, Quality and Completeness | Gary O'Neall | Open Compliance Summit, Japan | [Link](https://static.sched.com/hosted_files/ocs2023/01/Compliance%20Summit%20Balancing%20Complexity%2C%20Quality%20and%20Completeness.pdf) |
