@@ -36,9 +36,9 @@ body:
     id: orgattributes
     attributes:
       label: Organization or Company Logo Usage
-      description: check all that applies
+      description: Check all that apply.  You can sign up as a member of SPDX on the [Linux Foundation website membership page](https://enrollment.lfx.linuxfoundation.org/?project=spdx).
       options:
-        - label: Already a [member of SPDX](https://enrollment.lfx.linuxfoundation.org/?project=spdx)
+        - label: Already a member of SPDX
         - label: Permission to use logo as an SPDX supporter (required if not a member)
   - type: input
     id: contact
@@ -122,4 +122,4 @@ body:
       required: false
   - type: markdown
     attributes:
-      value: Logo which can be used for the project.  File size should be 2MB max and in JPG, PNG, or SVG format.
+      value: Please attach a logo which can be used for the project.  File size should be 2MB max and in JPG, PNG, or SVG format.
