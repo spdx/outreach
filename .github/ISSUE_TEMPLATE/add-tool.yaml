@@ -1,12 +1,12 @@
 name: Add/Modify SPDX Tool
-description: Add or Modify an Open Source Tool on the spdx.dev/tools website
-title: "[Open Source Tool Request]: "
+description: Add or Modify a Tool on the spdx.dev/tools website
+title: "[Tool Request]: "
 labels: ["tools"]
 body:
   - type: markdown
     attributes:
       value: |
-        Please fill in the information below to request a new open source tool to be added to the SPDX website or a modification to an existing tool
+        Please fill in the information below to request a new tool to be added to the SPDX website or a modification to an existing tool
   - type: input
     id: productname
     attributes:
@@ -16,11 +16,11 @@ body:
   - type: dropdown
     id: type
     attributes:
-      label: Open Source or Commercial
-      description: Is this an open source or a commercial tool?
+      label: Open Source or Proprietary
+      description: Is this an open source or a proprietary tool?
       options:
         - open source
-        - commercial
+        - proprietary
       default: 0
     validations:
       required: true
