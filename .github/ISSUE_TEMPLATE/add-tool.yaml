@@ -1,0 +1,125 @@
+name: Add/Modify SPDX Tool
+description: Add or Modify a Tool on the spdx.dev/tools website
+title: "[Tool Request]: "
+labels: ["tools"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill in the information below to request a new tool to be added to the SPDX website or a modification to an existing tool
+  - type: input
+    id: productname
+    attributes:
+      label: Tool or Product name
+    validations:
+      required: true
+  - type: dropdown
+    id: type
+    attributes:
+      label: Open Source or Proprietary
+      description: Is this an open source or a proprietary tool?
+      options:
+        - open source
+        - proprietary
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: organization
+    attributes:
+      label: Company or Organization name
+      description: Name of the company or organization supporting the tool
+      placeholder: ex. Linux Foundation, SPDX project
+    validations:
+      required: true
+  - type: checkboxes
+    id: orgattributes
+    attributes:
+      label: Organization or Company Logo Usage
+      description: Check all that apply.  You can sign up as a member of SPDX on the [Linux Foundation website membership page](https://enrollment.lfx.linuxfoundation.org/?project=spdx).
+      options:
+        - label: Already a member of SPDX
+        - label: Permission to use logo as an SPDX supporter (required if not a member)
+  - type: input
+    id: contact
+    attributes:
+      label: Public Contact Email or URL
+      description: Contact information to publish with the tool information
+      placeholder: ex. email@example.com
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Product or tool website
+      description: Must include a reference to SPDX supporter
+    validations:
+      required: true
+  - type: input
+    id: description
+    attributes:
+      label: description
+      description: Short description of product or tool (<100 words)
+    validations:
+      required: true
+  - type: checkboxes
+    id: categories
+    attributes:
+      label: SBOM tool category
+      description: Category and type of tool based on the [NTIA Tooling Taxonomy](https://www.ntia.gov/files/ntia/publications/ntia_sbom_tooling_taxonomy-2021mar30.pdf).  Check all that apply.
+      options:
+        - label: Produce(Build)
+        - label: Produce(Analyze)
+        - label: Produce(Edit)
+        - label: Consume(View)
+        - label: Consume(Diff)
+        - label: Consume(Import)
+        - label: Transform(Translate)
+        - label: Transform(Merge)
+        - label: Transform(Tool Support)
+    validations:
+      required: true
+  - type: checkboxes
+    id: versions
+    attributes:
+      label: SPDX Versions supported
+      description: Check all that apply
+      options:
+        - label: "2.0"
+        - label: "2.1"
+        - label: "2.2"
+        - label: "2.3"
+        - label: "3.0"
+    validations:
+      required: true
+  - type: textarea
+    id: verification
+    attributes:
+      label: SPDX verification
+      description: Please provide a short description (<100 words) of process employed to validate SPDX compatibility.
+    validations:
+      required: true
+  - type: textarea
+    id: procure
+    attributes:
+      label: How to procure
+      description: How can uses procure your tools or service (<50 words)?
+    validations:
+      required: true
+  - type: textarea
+    id: installation
+    attributes:
+      label: Installation instructions
+      description: How can one access installation and use documentation (<50 words)?
+    validations:
+      required: true
+  - type: input
+    id: quickstart
+    attributes:
+      label: Link to quick start guide
+      description: If the product/project website does not already have a quickstart guide, once can be added in the [SPDX outreach github repo](https://github.com/spdx/outreach/tree/main/quickstart).
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: Please attach a logo which can be used for the project.  File size should be 2MB max and in JPG, PNG, or SVG format.
