@@ -55,10 +55,10 @@ body:
       description: Must include a reference to SPDX supporter
     validations:
       required: true
-  - type: input
+  - type: textarea
     id: description
     attributes:
-      label: description
+      label: Description
       description: Short description of product or tool (<100 words)
     validations:
       required: true
@@ -103,7 +103,7 @@ body:
     id: procure
     attributes:
       label: How to procure
-      description: How can uses procure your tools or service (<50 words)?
+      description: How can users procure your tools or service (<50 words)?
     validations:
       required: true
   - type: textarea
