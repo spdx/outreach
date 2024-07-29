@@ -89,6 +89,7 @@ body:
         - label: "2.1"
         - label: "2.2"
         - label: "2.3"
+        - label: "3.0 In Progress"
         - label: "3.0"
     validations:
       required: true
@@ -120,6 +121,7 @@ body:
       description: If the product/project website does not already have a quickstart guide, once can be added in the [SPDX outreach github repo](https://github.com/spdx/outreach/tree/main/quickstart).
     validations:
       required: false
-  - type: markdown
+  - type: input - change to a field and be the URL for the logo, optionally attach or email
     attributes:
-      value: Please attach a logo which can be used for the project.  File size should be 2MB max and in JPG, PNG, or SVG format.
+      id: logo
+      description: Enter a URL for a logo which can be used for the project.  Alternatively, attach or email the logo to spdx-outreach@lists.spdx.org.  File size should be 2MB max and in JPG, PNG, or SVG format.
