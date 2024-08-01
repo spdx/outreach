@@ -121,7 +121,7 @@ body:
       description: If the product/project website does not already have a quickstart guide, once can be added in the [SPDX outreach github repo](https://github.com/spdx/outreach/tree/main/quickstart).
     validations:
       required: false
-  - type: input - change to a field and be the URL for the logo, optionally attach or email
+  - type: input
     attributes:
       id: logo
       description: Enter a URL for a logo which can be used for the project.  Alternatively, attach or email the logo to spdx-outreach@lists.spdx.org.  File size should be 2MB max and in JPG, PNG, or SVG format.
