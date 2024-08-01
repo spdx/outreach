@@ -122,6 +122,7 @@ body:
     validations:
       required: false
   - type: input
+    id: logo
     attributes:
-      id: logo
+      label: Link to logo
       description: Enter a URL for a logo which can be used for the project.  Alternatively, attach or email the logo to spdx-outreach@lists.spdx.org.  File size should be 2MB max and in JPG, PNG, or SVG format.
