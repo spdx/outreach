@@ -1,0 +1,23 @@
+name: Update SPDX Tool
+description: Modify an existing Tool on the spdx.dev/tools website
+title: "[Tool Update]: "
+labels: ["tools"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill in the information below to request a modification to an existing tool on the spdx.dev/tools website.  If you wish to add a new tool, please use the "Add Tool" issue template.
+  - type: input
+    id: productname
+    attributes:
+      label: Tool or Product name
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description of changes
+      description: Desribe the modifications you would like to make to the existing tool.  If you wish to add or change the logo, please attach to the description.
+    validations:
+      required: true
+

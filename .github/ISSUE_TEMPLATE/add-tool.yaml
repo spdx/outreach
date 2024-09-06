@@ -1,5 +1,5 @@
-name: Add/Modify SPDX Tool
-description: Add or Modify a Tool on the spdx.dev/tools website
+name: Add SPDX Tool
+description: Add a Tool on the spdx.dev/tools website
 title: "[Tool Request]: "
 labels: ["tools"]
 body:
