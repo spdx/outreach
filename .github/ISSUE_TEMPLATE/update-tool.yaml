@@ -17,7 +17,7 @@ body:
     id: description
     attributes:
       label: Description of changes
-      description: Desribe the modifications you would like to make to the existing tool.  If you wish to add or change the logo, please attach to the description.
+      description: Describe the modifications you would like to make to the existing tool.  If you wish to add or change the logo, please attach to the description.
     validations:
       required: true
 
