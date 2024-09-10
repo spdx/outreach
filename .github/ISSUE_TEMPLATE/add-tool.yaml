@@ -1,5 +1,5 @@
 name: Add SPDX Tool
-description: Add a Tool to the SPDX tools website: https://spdx.dev/use/spdx-tools/
+description: Add a Tool to the SPDX tools website at https://spdx.dev/use/spdx-tools/
 title: "[Tool Request]: "
 labels: ["tools"]
 body:
