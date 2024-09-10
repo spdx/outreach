@@ -1,5 +1,5 @@
 name: Update SPDX Tool
-description: Modify an existing Tool listing on the SPDX tools website: https://spdx.dev/use/spdx-tools/
+description: Modify an existing Tool listing on the SPDX tools website at https://spdx.dev/use/spdx-tools/
 title: "[Tool Update]: "
 labels: ["tools"]
 body:
