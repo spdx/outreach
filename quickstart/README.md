@@ -7,6 +7,7 @@ Since the requirements and usage for SPDX varies, each quick start will have uni
 
 | Ecosystem or Community | Quick Start Document | Example(s) | Video | Contact |
 |--|--|--|--|--|
+| SPDX 3 + [dots](https://condots.duckdns.org/) | N/A | N/A | [Introduction to SPDX 3 using a visual editing tool called "dots"](https://youtu.be/J4hbb4PeLIU) | @ilans |
 | Java Library | [JavaToolsQuickStart.md](JavaToolsQuickStart.md) | [java-tools-quickstart-files.zip](java-tools-quickstart-files.zip) | N/A | @goneall |
 | Maven | [MavenQuickStart.md](MavenQuickStart.md) | [Full Maven Example](https://github.com/spdx/spdx-maven-plugin/blob/master/src/it/advanced/pom.xml) | N/A | @goneall |
 | [Python Library](https://github.com/spdx/tools-python) | [PythonToolsQuickStart.md](PythonToolsQuickStart.md) | [Python Tools Examples](https://github.com/spdx/tools-python/tree/main/examples) | N/A | @armintaenzertng |
