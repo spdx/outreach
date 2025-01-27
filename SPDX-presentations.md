@@ -8,6 +8,7 @@ Please add talks to the top of the list (so they are listed in reverse chronolog
 
 | Date | Title | Presenter | Event | Slides/Video |
 |--|--|--|--|--|
+| 2025-01-14 | Podcast - A Deep Dive into SPDX | Viktor Petersson, Kate Stewart, Gary O'Neall | [Viktor Petersson Podcast](https://vpetersson.com/podcast/)  | [link](https://vpetersson.com/podcast/S02E01.html) |
 | 2024-02-06 | SBOMs Go Global | Kate Stewart | State of Open Con '24 | [Link](https://static.sched.com/hosted_files/stateofopencon2024/2a/FINAL%2020240206-SOOCon%20-%20SBOMs%20go%20global.pdf) |
 | 2024-02-04 | Overview of SPDX tooling and how SPDX3 gets adopted |Gary O'Neall | FOSDEM 2024 | [Video](https://video.fosdem.org/2024/k4401/fosdem-2024-3172-spdx-3-0-a-migration-journey.mp4) [Slides](https://fosdem.org/2024/events/attachments/fosdem-2024-3172-spdx-3-0-a-migration-journey/slides/22530/SPDX_3_0_-_a_migration_journey_ez1JkmI.pdf) |
 | 2024-02-04 | SPDX 3.0 - a Migration Journey | Maximilian Huber | FOSDEM 2024 | [Video](https://video.fosdem.org/2024/k4401/fosdem-2024-3096-overview-of-spdx-tooling-and-how-spdx3-gets-adopted.mp4) |
