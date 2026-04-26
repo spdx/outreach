@@ -1,7 +1,7 @@
 ﻿# Quick Start Resources
 
 This directory contains resources to help a specific tooling ecosystem or community get started quickly in producing and/or consuming SPDX.
-Since the requirements and usage for SPDX varies, each quick start will have unique information that is focused on the objects of the ecosystem or community.
+Since the requirements and usage for SPDX vary, each quick start provides unique information tailored to a specific ecosystem or community.
 
 ## Current Quick Starts
 
