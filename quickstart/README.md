@@ -36,9 +36,9 @@ Each quick start guide should be complete enough for someone familiar with the e
 An example should be used throughout the guide.  It is suggested that the Acme example used in the SPDX 3.0 spec is used as a base with any additional classes, profiles, or properties added as required for that community.
 
 A typical quick start guide would have the following sections:
-- Target Audience - who is this quick start for?
-- Scenario Description - What is the goal, expected outcomes from following the quick start guide? e.g. "At the end of this quick start guide, you will be able to ..."
-- Prerequisites - Any tooling required? Any knowledge pre-requisites? Would another quick start be helpful to run through first?
+ **Target Audience** – Who is this quick start for?
+ **Scenario Description** – What are the goals and expected outcomes of this quick start guide? e.g. "At the end of this quick start guide, you will be able to ..."
+ **Prerequisites** – Any required tools or prior knowledge? Any knowledge pre-requisites? Would another quick start be helpful to run through first?
 - Example - Introduce the example that will be used throughout the quick start
 - Steps - What are the specific steps to produce or consume an SPDX document?
 - Questions? - Where to go if you have any questions
