@@ -41,7 +41,7 @@ A typical quick start guide would have the following sections:
 - Prerequisites - Any tooling required? Any knowledge pre-requisites? Would another quick start be helpful to run through first?
 - Example - Introduce the example that will be used throughout the quick start
 - Steps - What are the specific steps to produce or consume an SPDX document?
-- Questions? - Where to go if you have any questions
+**Questions** – Where to go if you have any questions
 - Suggested next steps - Any further reading, further quick-starts, or just "join our SPDX community"
 
 
