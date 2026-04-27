@@ -15,6 +15,7 @@ Since the requirements and usage for SPDX vary, each quick start provides unique
 | FOSSA | [FOSSAQuickStart.md](FOSSAQuickStart.md) | | | product@fossa.com |
 | GitHub | [Exporting a Software Bill of Materials for your Repository](https://docs.github.com/en/code-security/supply-chain-security/understanding-your-software-supply-chain/exporting-a-software-bill-of-materials-for-your-repository) | N/A | | [Ask Github Community](https://github.com/orgs/community/discussions) or [Github Support](https://support.github.com/)
 | General SPDX | [Modifying SPDX documents using the SPDX Online Tools](OnlineToolsQuickStart.md) | N/A | | [Create an issue in online tools repo](https://github.com/spdx/spdx-online-tools/issues)
+Beginner Guide	AbsoluteBeginnerGuide.md	N/A	N/A	@Tinklle-Ambavi
 
 ## Upcoming Quick Starts
 
