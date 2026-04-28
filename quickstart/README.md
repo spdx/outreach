@@ -31,8 +31,7 @@ If you would like to contribute to an upcoming quick start, please create a pull
 
 ## Format of Quick Start Guides
 
-Each quick start guide should be complete enough for someone familiar with the ecosystem or community can easily complete the quick start.
-
+Each quick start guide should be complete enough that someone familiar with the ecosystem or community can easily complete it.
 An example should be used throughout the guide.  It is suggested that the Acme example used in the SPDX 3.0 spec is used as a base with any additional classes, profiles, or properties added as required for that community.
 
 A typical quick start guide would have the following sections:
