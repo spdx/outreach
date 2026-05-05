@@ -50,3 +50,22 @@ This method is quick and requires no manual input.
 
 ![Export SBOM from Dependency Graph](https://github.com/user-attachments/assets/6afd3e6a-48b7-4013-9460-58e17652a210)
 The "Export SBOM" button is located on the top-right of the Dependency Graph page.
+
+## Troubleshooting
+
+### “Export SBOM” button not visible
+- Ensure the repository has a Dependency Graph enabled
+- Public repositories usually have this by default
+- Try refreshing the page or checking permissions
+
+### SPDX Online Tools not loading
+- Check your internet connection
+- Try using a different browser
+
+### Missing project data
+- Make sure all required fields are filled before exporting
+
+## Tips
+- Start with a small project for practice
+- Use GitHub’s SBOM export for quick results
+- Refer to official SPDX documentation for advanced use
