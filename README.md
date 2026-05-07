@@ -1,5 +1,20 @@
 ﻿# SPDX Outreach resources
 
+ ## Quick Links
+
+- [Upcoming presentations](#upcoming-presentations)
+- [Previous presentations](#previous-presentations)
+- [List of SPDX presentations](SPDX-presentations.md)
+
+## Contributing
+
+Contributions to SPDX outreach materials are welcome.  
+You can help by:
+- improving documentation
+- fixing grammar or formatting
+- adding presentation resources
+- updating event information
+
 This repository collects resources useful for SPDX outreach.
 
 ## Upcoming presentations
