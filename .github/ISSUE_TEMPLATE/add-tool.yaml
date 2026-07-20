@@ -91,6 +91,8 @@ body:
         - label: "2.3"
         - label: "3.0 In Progress"
         - label: "3.0"
+        - label: "3.1 In Progress"
+        - label: "3.1"
     validations:
       required: true
   - type: textarea
